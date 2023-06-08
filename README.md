@@ -1,2 +1,2 @@
 # APBD
-Exercises from APBD
+Exercises from APBD(Aplikacje Baz Danych)
