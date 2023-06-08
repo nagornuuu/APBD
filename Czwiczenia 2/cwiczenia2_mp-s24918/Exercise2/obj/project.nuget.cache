@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CnZekASnyPk3FrD6AU4LjXF1Camn/yf932AYw2Fpn3EVFtmeEFN0yxU0JfL1whb75YVJg3Qa2PVL3Tb7DtL4Bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andrii\\source\\APBD\\Czwiczenia 2\\cwiczenia2_mp-s24918\\Exercise2\\Exercise2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andrii\\.nuget\\packages\\restsharp\\109.0.1\\restsharp.109.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

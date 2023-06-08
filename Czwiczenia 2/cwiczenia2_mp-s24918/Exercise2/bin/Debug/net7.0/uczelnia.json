@@ -1,0 +1,2684 @@
+{
+  "createdAt": "21.03.2023",
+  "author": "Andrii Nahornyi",
+  "students": [
+    {
+      "fname": "Paweł",
+      "lname": "Nowak1",
+      "indexNumber": "s459",
+      "birthdate": "2000-02-12",
+      "email": "1@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Kaja",
+      "lname": "Jankowski29",
+      "indexNumber": "s4816",
+      "birthdate": "2000-02-12",
+      "email": "29@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Justyna",
+      "lname": "Kowalski30",
+      "indexNumber": "s4749",
+      "birthdate": "2000-02-12",
+      "email": "30@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Michał",
+      "lname": "Nowak31",
+      "indexNumber": "s4432",
+      "birthdate": "2000-02-12",
+      "email": "31@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Kamil",
+      "lname": "Brzęczyszczykiewicz32",
+      "indexNumber": "s4757",
+      "birthdate": "2000-02-12",
+      "email": "32@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Marta",
+      "lname": "Maciejewski33",
+      "indexNumber": "s4655",
+      "birthdate": "2000-02-12",
+      "email": "33@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Szymon",
+      "lname": "Jankowski34",
+      "indexNumber": "s4398",
+      "birthdate": "2000-02-12",
+      "email": "34@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Zbigniew",
+      "lname": "Kowalski35",
+      "indexNumber": "s4450",
+      "birthdate": "2000-02-12",
+      "email": "35@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": ""
+      }
+    },
+    {
+      "fname": "Karolina",
+      "lname": "Nowak36",
+      "indexNumber": "s4455",
+      "birthdate": "2000-02-12",
+      "email": "36@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": ""
+      }
+    },
+    {
+      "fname": "Joanna",
+      "lname": "Brzęczyszczykiewicz37",
+      "indexNumber": "s4799",
+      "birthdate": "2000-02-12",
+      "email": "37@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Irena",
+      "lname": "Maciejewski38",
+      "indexNumber": "s4626",
+      "birthdate": "2000-02-12",
+      "email": "38@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Adam",
+      "lname": "Jankowski39",
+      "indexNumber": "s4446",
+      "birthdate": "2000-02-12",
+      "email": "39@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Kacper",
+      "lname": "Kowalski40",
+      "indexNumber": "s4396",
+      "birthdate": "2000-02-12",
+      "email": "40@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Paweł",
+      "lname": "Nowak41",
+      "indexNumber": "s4902",
+      "birthdate": "2000-02-12",
+      "email": "41@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Aleksandra",
+      "lname": "",
+      "indexNumber": "s4434",
+      "birthdate": "2000-02-12",
+      "email": "42@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Aleksandra",
+      "lname": "Brzęczyszczykiewicz42",
+      "indexNumber": "s4434",
+      "birthdate": "2000-02-12",
+      "email": "42@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów zaoczne",
+        "mode": "Zaoczne"
+      }
+    },
+    {
+      "fname": "Katarzyna",
+      "lname": "Maciejewski43",
+      "indexNumber": "s4517",
+      "birthdate": "2000-02-12",
+      "email": "43@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Grzegorz",
+      "lname": "Jankowski44",
+      "indexNumber": "s4705",
+      "birthdate": "2000-02-12",
+      "email": "44@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Adrian",
+      "lname": "Kowalski45",
+      "indexNumber": "s4661",
+      "birthdate": "2000-02-12",
+      "email": "45@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Jan",
+      "lname": "Nowak46",
+      "indexNumber": "s4842",
+      "birthdate": "2000-02-12",
+      "email": "46@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Jakub",
+      "lname": "Brzęczyszczykiewicz47",
+      "indexNumber": "s4709",
+      "birthdate": "2000-02-12",
+      "email": "47@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Iga",
+      "lname": "Maciejewski48",
+      "indexNumber": "s4792",
+      "birthdate": "2000-02-12",
+      "email": "48@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Jakub",
+      "lname": "Jankowski49",
+      "indexNumber": "s4789",
+      "birthdate": "2000-02-12",
+      "email": "49@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Maria",
+      "lname": "Kowalski50",
+      "indexNumber": "s4708",
+      "birthdate": "2000-02-12",
+      "email": "50@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Artur",
+      "lname": "Nowak51",
+      "indexNumber": "s4404",
+      "birthdate": "2000-02-12",
+      "email": "51@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Sabina",
+      "lname": "Brzęczyszczykiewicz52",
+      "indexNumber": "s4513",
+      "birthdate": "2000-02-12",
+      "email": "52@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Łukasz",
+      "lname": "Maciejewski53",
+      "indexNumber": "s4442",
+      "birthdate": "2000-02-12",
+      "email": "53@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Marcin",
+      "lname": "Jankowski54",
+      "indexNumber": "s4732",
+      "birthdate": "2000-02-12",
+      "email": "54@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Rafał",
+      "lname": "Kowalski55",
+      "indexNumber": "s4506",
+      "birthdate": "2000-02-12",
+      "email": "55@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Jan",
+      "lname": "Nowak56",
+      "indexNumber": "s4649",
+      "birthdate": "2000-02-12",
+      "email": "56@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Jakub",
+      "lname": "Brzęczyszczykiewicz57",
+      "indexNumber": "s4755",
+      "birthdate": "2000-02-12",
+      "email": "57@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Julia",
+      "lname": "Maciejewski58",
+      "indexNumber": "s4890",
+      "birthdate": "2000-02-12",
+      "email": "58@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Karol",
+      "lname": "Jankowski59",
+      "indexNumber": "s4594",
+      "birthdate": "2000-02-12",
+      "email": "59@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Katarzyna",
+      "lname": "Nowak61",
+      "indexNumber": "s4925",
+      "birthdate": "2000-02-12",
+      "email": "61@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Marzena",
+      "lname": "Brzęczyszczykiewicz62",
+      "indexNumber": "s4748",
+      "birthdate": "2000-02-12",
+      "email": "62@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Filip",
+      "lname": "Maciejewski63",
+      "indexNumber": "s4720",
+      "birthdate": "2000-02-12",
+      "email": "63@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Karolina",
+      "lname": "Jankowski64",
+      "indexNumber": "s4423",
+      "birthdate": "2000-02-12",
+      "email": "64@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Mateusz",
+      "lname": "Kowalski65",
+      "indexNumber": "s4299",
+      "birthdate": "2000-02-12",
+      "email": "65@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Magdalena",
+      "lname": "Nowak66",
+      "indexNumber": "s4629",
+      "birthdate": "2000-02-12",
+      "email": "66@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Igor",
+      "lname": "Brzęczyszczykiewicz67",
+      "indexNumber": "s4889",
+      "birthdate": "2000-02-12",
+      "email": "67@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Bogumiła",
+      "lname": "Maciejewski68",
+      "indexNumber": "s4831",
+      "birthdate": "2000-02-12",
+      "email": "68@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Paweł",
+      "lname": "Jankowski69",
+      "indexNumber": "s4478",
+      "birthdate": "2000-02-12",
+      "email": "69@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Marta",
+      "lname": "Kowalski70",
+      "indexNumber": "s4718",
+      "birthdate": "2000-02-12",
+      "email": "70@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Kamil",
+      "lname": "Nowak71",
+      "indexNumber": "s4741",
+      "birthdate": "2000-02-12",
+      "email": "71@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Beata",
+      "lname": "Brzęczyszczykiewicz72",
+      "indexNumber": "s4444",
+      "birthdate": "2000-02-12",
+      "email": "72@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Kacper",
+      "lname": "Maciejewski73",
+      "indexNumber": "s4552",
+      "birthdate": "2000-02-12",
+      "email": "73@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Gustaw",
+      "lname": "Jankowski74",
+      "indexNumber": "s4462",
+      "birthdate": "2000-02-12",
+      "email": "74@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Arkadiusz",
+      "lname": "Kowalski75",
+      "indexNumber": "s4414",
+      "birthdate": "2000-02-12",
+      "email": "75@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Sonia",
+      "lname": "Nowak76",
+      "indexNumber": "s4508",
+      "birthdate": "2000-02-12",
+      "email": "76@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Sandra",
+      "lname": "Brzęczyszczykiewicz77",
+      "indexNumber": "s4800",
+      "birthdate": "2000-02-12",
+      "email": "77@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Małgorzata",
+      "lname": "Maciejewski78",
+      "indexNumber": "s4429",
+      "birthdate": "2000-02-12",
+      "email": "78@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Kiyomi",
+      "lname": "Jankowski79",
+      "indexNumber": "s4927",
+      "birthdate": "2000-02-12",
+      "email": "79@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Konrad",
+      "lname": "Kowalski80",
+      "indexNumber": "s4502",
+      "birthdate": "2000-02-12",
+      "email": "80@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Tomasz",
+      "lname": "Nowak81",
+      "indexNumber": "s4744",
+      "birthdate": "2000-02-12",
+      "email": "81@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Maciej",
+      "lname": "Brzęczyszczykiewicz82",
+      "indexNumber": "s4477",
+      "birthdate": "2000-02-12",
+      "email": "82@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Katarzyna",
+      "lname": "Maciejewski83",
+      "indexNumber": "s4736",
+      "birthdate": "2000-02-12",
+      "email": "83@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Klaudia",
+      "lname": "Jankowski84",
+      "indexNumber": "s4849",
+      "birthdate": "2000-02-12",
+      "email": "84@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Michał",
+      "lname": "Kowalski85",
+      "indexNumber": "s4819",
+      "birthdate": "2000-02-12",
+      "email": "85@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Sebastian",
+      "lname": "Nowak86",
+      "indexNumber": "s4445",
+      "birthdate": "2000-02-12",
+      "email": "86@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Kamil",
+      "lname": "Brzęczyszczykiewicz87",
+      "indexNumber": "s4707",
+      "birthdate": "2000-02-12",
+      "email": "87@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Jagna",
+      "lname": "Maciejewski88",
+      "indexNumber": "s4764",
+      "birthdate": "2000-02-12",
+      "email": "88@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Izabela",
+      "lname": "Jankowski89",
+      "indexNumber": "s4722",
+      "birthdate": "2000-02-12",
+      "email": "89@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Mateusz",
+      "lname": "Kowalski90",
+      "indexNumber": "s4452",
+      "birthdate": "2000-02-12",
+      "email": "90@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Daria",
+      "lname": "Nowak91",
+      "indexNumber": "s4545",
+      "birthdate": "2000-02-12",
+      "email": "91@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Agnieszka",
+      "lname": "Brzęczyszczykiewicz92",
+      "indexNumber": "s4771",
+      "birthdate": "2000-02-12",
+      "email": "92@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Iwona",
+      "lname": "Maciejewski93",
+      "indexNumber": "s4706",
+      "birthdate": "2000-02-12",
+      "email": "93@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Aleksandra",
+      "lname": "Jankowski94",
+      "indexNumber": "s4772",
+      "birthdate": "2000-02-12",
+      "email": "94@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Tomasz",
+      "lname": "Kowalski95",
+      "indexNumber": "s3374",
+      "birthdate": "2000-02-12",
+      "email": "95@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Jolanta",
+      "lname": "Nowak96",
+      "indexNumber": "s4756",
+      "birthdate": "2000-02-12",
+      "email": "96@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Aleksandra",
+      "lname": "Brzęczyszczykiewicz97",
+      "indexNumber": "s4457",
+      "birthdate": "2000-02-12",
+      "email": "97@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Sztuka Nowych Mediów dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Paweł",
+      "lname": "Brzęczyszczykiewicz252",
+      "indexNumber": "s4412",
+      "birthdate": "2000-02-12",
+      "email": "252@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Dariusz",
+      "lname": "Maciejewski253",
+      "indexNumber": "s4525",
+      "birthdate": "2000-02-12",
+      "email": "253@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Kamil",
+      "lname": "Jankowski254",
+      "indexNumber": "s4836",
+      "birthdate": "2000-02-12",
+      "email": "254@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Łukasz",
+      "lname": "Kowalski255",
+      "indexNumber": "s4788",
+      "birthdate": "2000-02-12",
+      "email": "255@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Tomasz",
+      "lname": "Nowak256",
+      "indexNumber": "s4474",
+      "birthdate": "2000-02-12",
+      "email": "256@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Michał",
+      "lname": "Brzęczyszczykiewicz257",
+      "indexNumber": "s4454",
+      "birthdate": "2000-02-12",
+      "email": "257@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Patryk",
+      "lname": "Maciejewski258",
+      "indexNumber": "s4443",
+      "birthdate": "2000-02-12",
+      "email": "258@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Bhagirath",
+      "lname": "Jankowski259",
+      "indexNumber": "s4851",
+      "birthdate": "2000-02-12",
+      "email": "259@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Michał",
+      "lname": "Kowalski260",
+      "indexNumber": "s4579",
+      "birthdate": "2000-02-12",
+      "email": "260@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Marek",
+      "lname": "Nowak261",
+      "indexNumber": "s4461",
+      "birthdate": "2000-02-12",
+      "email": "261@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Przemysław",
+      "lname": "Brzęczyszczykiewicz262",
+      "indexNumber": "s4747",
+      "birthdate": "2000-02-12",
+      "email": "262@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Marcin",
+      "lname": "Maciejewski263",
+      "indexNumber": "s4762",
+      "birthdate": "2000-02-12",
+      "email": "263@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Zuzanna",
+      "lname": "Jankowski264",
+      "indexNumber": "s4413",
+      "birthdate": "2000-02-12",
+      "email": "264@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Zarządzanie informacją dzienne (kierunek Zarządzanie)",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Michał",
+      "lname": "Kowalski265",
+      "indexNumber": "s4490",
+      "birthdate": "2000-02-12",
+      "email": "265@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Wojciech",
+      "lname": "Nowak266",
+      "indexNumber": "s4554",
+      "birthdate": "2000-02-12",
+      "email": "266@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Enkh-Amgalan",
+      "lname": "Brzęczyszczykiewicz267",
+      "indexNumber": "s4340",
+      "birthdate": "2000-02-12",
+      "email": "267@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Adrian",
+      "lname": "Maciejewski268",
+      "indexNumber": "s4586",
+      "birthdate": "2000-02-12",
+      "email": "268@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Bartosz",
+      "lname": "Jankowski269",
+      "indexNumber": "s4798",
+      "birthdate": "2000-02-12",
+      "email": "269@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Jakub",
+      "lname": "Kowalski270",
+      "indexNumber": "s4711",
+      "birthdate": "2000-02-12",
+      "email": "270@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Sebastian",
+      "lname": "Nowak271",
+      "indexNumber": "s4056",
+      "birthdate": "2000-02-12",
+      "email": "271@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Aleksandra",
+      "lname": "Brzęczyszczykiewicz272",
+      "indexNumber": "s4549",
+      "birthdate": "2000-02-12",
+      "email": "272@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Piotr",
+      "lname": "Maciejewski273",
+      "indexNumber": "s4618",
+      "birthdate": "2000-02-12",
+      "email": "273@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Adrian",
+      "lname": "Jankowski274",
+      "indexNumber": "s4530",
+      "birthdate": "2000-02-12",
+      "email": "274@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Andrzej",
+      "lname": "Kowalski275",
+      "indexNumber": "s4607",
+      "birthdate": "2000-02-12",
+      "email": "275@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Wojciech",
+      "lname": "Nowak276",
+      "indexNumber": "s4459",
+      "birthdate": "2000-02-12",
+      "email": "276@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Monika",
+      "lname": "Brzęczyszczykiewicz277",
+      "indexNumber": "s4501",
+      "birthdate": "2000-02-12",
+      "email": "277@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Jan",
+      "lname": "Maciejewski278",
+      "indexNumber": "s4858",
+      "birthdate": "2000-02-12",
+      "email": "278@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Paweł",
+      "lname": "Jankowski279",
+      "indexNumber": "s4578",
+      "birthdate": "2000-02-12",
+      "email": "279@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Bartosz",
+      "lname": "Kowalski280",
+      "indexNumber": "s4555",
+      "birthdate": "2000-02-12",
+      "email": "280@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Agata",
+      "lname": "Nowak281",
+      "indexNumber": "s4589",
+      "birthdate": "2000-02-12",
+      "email": "281@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Matthew",
+      "lname": "Brzęczyszczykiewicz282",
+      "indexNumber": "s4945",
+      "birthdate": "2000-02-12",
+      "email": "282@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Piotr",
+      "lname": "Maciejewski283",
+      "indexNumber": "s4556",
+      "birthdate": "2000-02-12",
+      "email": "283@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Grzegorz",
+      "lname": "Jankowski284",
+      "indexNumber": "s4504",
+      "birthdate": "2000-02-12",
+      "email": "284@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Sebastian",
+      "lname": "Kowalski285",
+      "indexNumber": "s4505",
+      "birthdate": "2000-02-12",
+      "email": "285@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Filip",
+      "lname": "Nowak286",
+      "indexNumber": "s4105",
+      "birthdate": "2000-02-12",
+      "email": "286@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Jakub",
+      "lname": "Brzęczyszczykiewicz287",
+      "indexNumber": "s4487",
+      "birthdate": "2000-02-12",
+      "email": "287@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Artur",
+      "lname": "Maciejewski288",
+      "indexNumber": "s4498",
+      "birthdate": "2000-02-12",
+      "email": "288@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Piotr",
+      "lname": "Jankowski289",
+      "indexNumber": "s4471",
+      "birthdate": "2000-02-12",
+      "email": "289@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Małgorzata",
+      "lname": "Kowalski290",
+      "indexNumber": "s4855",
+      "birthdate": "2000-02-12",
+      "email": "290@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Arkadiusz",
+      "lname": "Nowak291",
+      "indexNumber": "s4752",
+      "birthdate": "2000-02-12",
+      "email": "291@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Jakub",
+      "lname": "Brzęczyszczykiewicz292",
+      "indexNumber": "s4770",
+      "birthdate": "2000-02-12",
+      "email": "292@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Adam",
+      "lname": "Maciejewski293",
+      "indexNumber": "s4476",
+      "birthdate": "2000-02-12",
+      "email": "293@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Tomasz",
+      "lname": "Jankowski294",
+      "indexNumber": "s4724",
+      "birthdate": "2000-02-12",
+      "email": "294@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Piotr",
+      "lname": "Kowalski295",
+      "indexNumber": "s4754",
+      "birthdate": "2000-02-12",
+      "email": "295@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Michał",
+      "lname": "Nowak296",
+      "indexNumber": "s4769",
+      "birthdate": "2000-02-12",
+      "email": "296@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Maciej",
+      "lname": "Brzęczyszczykiewicz297",
+      "indexNumber": "s4499",
+      "birthdate": "2000-02-12",
+      "email": "297@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Jakub",
+      "lname": "Maciejewski298",
+      "indexNumber": "s4733",
+      "birthdate": "2000-02-12",
+      "email": "298@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Kasper",
+      "lname": "Jankowski299",
+      "indexNumber": "s4584",
+      "birthdate": "2000-02-12",
+      "email": "299@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Krzysztof",
+      "lname": "Kowalski300",
+      "indexNumber": "s4514",
+      "birthdate": "2000-02-12",
+      "email": "300@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Michał",
+      "lname": "Nowak301",
+      "indexNumber": "s4448",
+      "birthdate": "2000-02-12",
+      "email": "301@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Paweł",
+      "lname": "Brzęczyszczykiewicz302",
+      "indexNumber": "s4664",
+      "birthdate": "2000-02-12",
+      "email": "302@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Katarzyna",
+      "lname": "Maciejewski303",
+      "indexNumber": "s4935",
+      "birthdate": "2000-02-12",
+      "email": "303@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Konrad",
+      "lname": "Jankowski304",
+      "indexNumber": "s4485",
+      "birthdate": "2000-02-12",
+      "email": "304@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Piotr",
+      "lname": "Kowalski305",
+      "indexNumber": "s4456",
+      "birthdate": "2000-02-12",
+      "email": "305@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Jan",
+      "lname": "Nowak306",
+      "indexNumber": "s4107",
+      "birthdate": "2000-02-12",
+      "email": "306@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Radosław",
+      "lname": "Brzęczyszczykiewicz307",
+      "indexNumber": "s4482",
+      "birthdate": "2000-02-12",
+      "email": "307@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Kacper",
+      "lname": "Maciejewski308",
+      "indexNumber": "s4817",
+      "birthdate": "2000-02-12",
+      "email": "308@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Tomasz",
+      "lname": "Jankowski309",
+      "indexNumber": "s4765",
+      "birthdate": "2000-02-12",
+      "email": "309@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Lech",
+      "lname": "Kowalski310",
+      "indexNumber": "s4387",
+      "birthdate": "2000-02-12",
+      "email": "310@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Błażej",
+      "lname": "Nowak311",
+      "indexNumber": "s4509",
+      "birthdate": "2000-02-12",
+      "email": "311@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Karol",
+      "lname": "Brzęczyszczykiewicz312",
+      "indexNumber": "s4609",
+      "birthdate": "2000-02-12",
+      "email": "312@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Paweł",
+      "lname": "Maciejewski313",
+      "indexNumber": "s4481",
+      "birthdate": "2000-02-12",
+      "email": "313@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Wojciech",
+      "lname": "Jankowski314",
+      "indexNumber": "s4512",
+      "birthdate": "2000-02-12",
+      "email": "314@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Maciej",
+      "lname": "Kowalski315",
+      "indexNumber": "s4782",
+      "birthdate": "2000-02-12",
+      "email": "315@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Michał",
+      "lname": "Nowak316",
+      "indexNumber": "s4492",
+      "birthdate": "2000-02-12",
+      "email": "316@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Piotr",
+      "lname": "Brzęczyszczykiewicz317",
+      "indexNumber": "s4531",
+      "birthdate": "2000-02-12",
+      "email": "317@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Marcin",
+      "lname": "Maciejewski318",
+      "indexNumber": "s4406",
+      "birthdate": "2000-02-12",
+      "email": "318@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Krzysztof",
+      "lname": "Jankowski319",
+      "indexNumber": "s4394",
+      "birthdate": "2000-02-12",
+      "email": "319@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Michał",
+      "lname": "Kowalski320",
+      "indexNumber": "s4627",
+      "birthdate": "2000-02-12",
+      "email": "320@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka internetowe magisterskie",
+        "mode": "Internetowe"
+      }
+    },
+    {
+      "fname": "Krzysztof",
+      "lname": "Nowak321",
+      "indexNumber": "s4830",
+      "birthdate": "2000-02-12",
+      "email": "321@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Adrian",
+      "lname": "Brzęczyszczykiewicz322",
+      "indexNumber": "s4486",
+      "birthdate": "2000-02-12",
+      "email": "322@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Mariusz",
+      "lname": "Maciejewski323",
+      "indexNumber": "s4447",
+      "birthdate": "2000-02-12",
+      "email": "323@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Bartosz",
+      "lname": "Jankowski324",
+      "indexNumber": "s4580",
+      "birthdate": "2000-02-12",
+      "email": "324@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Piotr",
+      "lname": "Kowalski325",
+      "indexNumber": "s4284",
+      "birthdate": "2000-02-12",
+      "email": "325@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Michał",
+      "lname": "Nowak326",
+      "indexNumber": "s4440",
+      "birthdate": "2000-02-12",
+      "email": "326@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Aleksander",
+      "lname": "Brzęczyszczykiewicz327",
+      "indexNumber": "s4410",
+      "birthdate": "2000-02-12",
+      "email": "327@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Andrzej",
+      "lname": "Maciejewski328",
+      "indexNumber": "s4615",
+      "birthdate": "2000-02-12",
+      "email": "328@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Paweł",
+      "lname": "Jankowski329",
+      "indexNumber": "s4796",
+      "birthdate": "2000-02-12",
+      "email": "329@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Paweł",
+      "lname": "Kowalski330",
+      "indexNumber": "s4458",
+      "birthdate": "2000-02-12",
+      "email": "330@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Nakul",
+      "lname": "Brzęczyszczykiewicz332",
+      "indexNumber": "s4942",
+      "birthdate": "2000-02-12",
+      "email": "332@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Tomoto",
+      "lname": "Maciejewski333",
+      "indexNumber": "s4614",
+      "birthdate": "2000-02-12",
+      "email": "333@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Krzysztof",
+      "lname": "Jankowski334",
+      "indexNumber": "s4822",
+      "birthdate": "2000-02-12",
+      "email": "334@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Adam",
+      "lname": "Kowalski335",
+      "indexNumber": "s4433",
+      "birthdate": "2000-02-12",
+      "email": "335@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Jan",
+      "lname": "Nowak336",
+      "indexNumber": "s4557",
+      "birthdate": "2000-02-12",
+      "email": "336@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Gabriel",
+      "lname": "Brzęczyszczykiewicz337",
+      "indexNumber": "s4599",
+      "birthdate": "2000-02-12",
+      "email": "337@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Michał",
+      "lname": "Maciejewski338",
+      "indexNumber": "s4419",
+      "birthdate": "2000-02-12",
+      "email": "338@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Michał",
+      "lname": "Jankowski339",
+      "indexNumber": "s4828",
+      "birthdate": "2000-02-12",
+      "email": "339@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Kacper",
+      "lname": "Kowalski340",
+      "indexNumber": "s4460",
+      "birthdate": "2000-02-12",
+      "email": "340@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Adrian",
+      "lname": "Nowak341",
+      "indexNumber": "s4058",
+      "birthdate": "2000-02-12",
+      "email": "341@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Michał",
+      "lname": "Brzęczyszczykiewicz342",
+      "indexNumber": "s4524",
+      "birthdate": "2000-02-12",
+      "email": "342@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Katarzyna",
+      "lname": "Maciejewski343",
+      "indexNumber": "s4588",
+      "birthdate": "2000-02-12",
+      "email": "343@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Piotr",
+      "lname": "Jankowski344",
+      "indexNumber": "s4743",
+      "birthdate": "2000-02-12",
+      "email": "344@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Karol",
+      "lname": "Kowalski345",
+      "indexNumber": "s4721",
+      "birthdate": "2000-02-12",
+      "email": "345@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Radosław",
+      "lname": "Nowak346",
+      "indexNumber": "s4544",
+      "birthdate": "2000-02-12",
+      "email": "346@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Marco",
+      "lname": "Brzęczyszczykiewicz347",
+      "indexNumber": "s4426",
+      "birthdate": "2000-02-12",
+      "email": "347@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Jagoda",
+      "lname": "Maciejewski348",
+      "indexNumber": "s4532",
+      "birthdate": "2000-02-12",
+      "email": "348@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Tomasz",
+      "lname": "Jankowski349",
+      "indexNumber": "s4480",
+      "birthdate": "2000-02-12",
+      "email": "349@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Przemysław",
+      "lname": "Kowalski350",
+      "indexNumber": "s4441",
+      "birthdate": "2000-02-12",
+      "email": "350@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Michał",
+      "lname": "Nowak351",
+      "indexNumber": "s4523",
+      "birthdate": "2000-02-12",
+      "email": "351@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Bartosz",
+      "lname": "Brzęczyszczykiewicz352",
+      "indexNumber": "s4766",
+      "birthdate": "2000-02-12",
+      "email": "352@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Achut",
+      "lname": "Maciejewski353",
+      "indexNumber": "s4941",
+      "birthdate": "2000-02-12",
+      "email": "353@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Aleksander",
+      "lname": "Jankowski354",
+      "indexNumber": "s4647",
+      "birthdate": "2000-02-12",
+      "email": "354@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Jan",
+      "lname": "Kowalski355",
+      "indexNumber": "s4500",
+      "birthdate": "2000-02-12",
+      "email": "355@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Yuriy",
+      "lname": "Nowak356",
+      "indexNumber": "s4422",
+      "birthdate": "2000-02-12",
+      "email": "356@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Michał",
+      "lname": "Brzęczyszczykiewicz357",
+      "indexNumber": "s4660",
+      "birthdate": "2000-02-12",
+      "email": "357@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Michał",
+      "lname": "Maciejewski358",
+      "indexNumber": "s4521",
+      "birthdate": "2000-02-12",
+      "email": "358@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Piotr",
+      "lname": "Jankowski359",
+      "indexNumber": "s4585",
+      "birthdate": "2000-02-12",
+      "email": "359@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Mikołaj",
+      "lname": "Kowalski360",
+      "indexNumber": "s3081",
+      "birthdate": "2000-02-12",
+      "email": "360@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Dariusz",
+      "lname": "Nowak361",
+      "indexNumber": "s4710",
+      "birthdate": "2000-02-12",
+      "email": "361@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Anna",
+      "lname": "Brzęczyszczykiewicz362",
+      "indexNumber": "s4385",
+      "birthdate": "2000-02-12",
+      "email": "362@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Piotr",
+      "lname": "Maciejewski363",
+      "indexNumber": "s4529",
+      "birthdate": "2000-02-12",
+      "email": "363@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Michał",
+      "lname": "Jankowski364",
+      "indexNumber": "s4522",
+      "birthdate": "2000-02-12",
+      "email": "364@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka zaoczne",
+        "mode": "Zaoczne"
+      }
+    },
+    {
+      "fname": "Dawid",
+      "lname": "Kowalski365",
+      "indexNumber": "s4827",
+      "birthdate": "2000-02-12",
+      "email": "365@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Karol",
+      "lname": "Nowak366",
+      "indexNumber": "s4518",
+      "birthdate": "2000-02-12",
+      "email": "366@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Adrian",
+      "lname": "Brzęczyszczykiewicz367",
+      "indexNumber": "s4384",
+      "birthdate": "2000-02-12",
+      "email": "367@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Łukasz",
+      "lname": "Maciejewski368",
+      "indexNumber": "s4496",
+      "birthdate": "2000-02-12",
+      "email": "368@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Adam",
+      "lname": "Jankowski369",
+      "indexNumber": "s4750",
+      "birthdate": "2000-02-12",
+      "email": "369@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Arkadiusz",
+      "lname": "Kowalski370",
+      "indexNumber": "s4111",
+      "birthdate": "2000-02-12",
+      "email": "370@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Jakub",
+      "lname": "Nowak371",
+      "indexNumber": "s4484",
+      "birthdate": "2000-02-12",
+      "email": "371@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Michał",
+      "lname": "Brzęczyszczykiewicz372",
+      "indexNumber": "s4483",
+      "birthdate": "2000-02-12",
+      "email": "372@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Tomasz",
+      "lname": "Maciejewski373",
+      "indexNumber": "s4751",
+      "birthdate": "2000-02-12",
+      "email": "373@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Radosław",
+      "lname": "Jankowski374",
+      "indexNumber": "s4528",
+      "birthdate": "2000-02-12",
+      "email": "374@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Paweł",
+      "lname": "Kowalski375",
+      "indexNumber": "s4533",
+      "birthdate": "2000-02-12",
+      "email": "375@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Przemysław",
+      "lname": "Nowak376",
+      "indexNumber": "s4814",
+      "birthdate": "2000-02-12",
+      "email": "376@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Adam",
+      "lname": "Brzęczyszczykiewicz377",
+      "indexNumber": "s4753",
+      "birthdate": "2000-02-12",
+      "email": "377@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Dawid",
+      "lname": "Maciejewski378",
+      "indexNumber": "s4520",
+      "birthdate": "2000-02-12",
+      "email": "378@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Adrian",
+      "lname": "Jankowski379",
+      "indexNumber": "s4837",
+      "birthdate": "2000-02-12",
+      "email": "379@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Sławomir",
+      "lname": "Kowalski380",
+      "indexNumber": "s4611",
+      "birthdate": "2000-02-12",
+      "email": "380@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Rafał",
+      "lname": "Nowak381",
+      "indexNumber": "s4616",
+      "birthdate": "2000-02-12",
+      "email": "381@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne",
+        "mode": "Dzienne"
+      }
+    },
+    {
+      "fname": "Agnieszka",
+      "lname": "Brzęczyszczykiewicz382",
+      "indexNumber": "s4603",
+      "birthdate": "2000-02-12",
+      "email": "382@pjwstk.edu.pl",
+      "mothersName": "Alina",
+      "fathersName": "Adam",
+      "studies": {
+        "name": "Informatyka dzienne po angielsku",
+        "mode": "Dzienne"
+      }
+    }
+  ],
+  "activeStudies": [
+    {
+      "name": "Informatyka dzienne",
+      "numberOfStudents": "106"
+    },
+    {
+      "name": "Informatyka magisterskie 4 sem",
+      "numberOfStudents": "1"
+    },
+    {
+      "name": "Informatyka doktoranckie",
+      "numberOfStudents": "2"
+    },
+    {
+      "name": "Sztuka Nowych Mediów dzienne",
+      "numberOfStudents": "68"
+    },
+    {
+      "name": "Sztuka Nowych Mediów uzupełniające magisterskie",
+      "numberOfStudents": "15"
+    },
+    {
+      "name": "Sztuka Nowych Mediów zaoczne",
+      "numberOfStudents": "5"
+    },
+    {
+      "name": "Sztuka Nowych Mediów zaoczne 6 sem.",
+      "numberOfStudents": "2"
+    },
+    {
+      "name": "Informatyka dzienne po angielsku",
+      "numberOfStudents": "30"
+    },
+    {
+      "name": "Informatyka magisterskie 3 sem",
+      "numberOfStudents": "33"
+    },
+    {
+      "name": "Informatyka zaoczne",
+      "numberOfStudents": "16"
+    },
+    {
+      "name": "Zarządzanie informacją dzienne (kierunek Zarządzanie)",
+      "numberOfStudents": "1"
+    },
+    {
+      "name": "Informatyka internetowe",
+      "numberOfStudents": "8"
+    },
+    {
+      "name": "Informatyka magisterskie uzupełniające zaoczne",
+      "numberOfStudents": "3"
+    },
+    {
+      "name": "Informatyka jednolite magisterskie",
+      "numberOfStudents": "3"
+    },
+    {
+      "name": "Informatyka jednolite magisterskie po angielsku",
+      "numberOfStudents": "2"
+    },
+    {
+      "name": "Informatyka Społeczna",
+      "numberOfStudents": "2"
+    },
+    {
+      "name": "Informatyka internetowe magisterskie",
+      "numberOfStudents": "1"
+    },
+    {
+      "name": "Informatyka wieczorowe",
+      "numberOfStudents": "1"
+    },
+    {
+      "name": "MBA dla branży IT",
+      "numberOfStudents": "1"
+    }
+  ]
+}
