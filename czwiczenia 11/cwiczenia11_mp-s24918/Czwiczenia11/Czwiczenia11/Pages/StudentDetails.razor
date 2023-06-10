@@ -1,0 +1,55 @@
+﻿@page "/students/{ID:int}"
+
+@inject StudentsService studentsService
+@inject NavigationManager navigationManager
+
+@using Czwiczenia11.Data;
+<style>
+    td {
+        border: 1px solid black;
+    }
+</style>
+<h3><u>Student's details</u></h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <td>@student.FirstName</td>
+        </tr>
+        <tr>
+            <th>Last Name</th>
+            <td>@student.LastName</td>
+        </tr>
+        <tr>
+            <th>BirthDate</th>
+            <td>@student.BirthDate.ToShortDateString()</td>
+        </tr>
+        <tr>
+            <th>Studies</th>
+            <td>@student.Studies</td>
+        </tr>
+        <tr>
+            <th>Avatar</th>
+            <td><img src="@student.Avatar" alt="@student.FirstName @student.LastName" width="65" height="65" /></td>
+        </tr>
+    </thead>
+</table>
+@*@ID*@
+<button @onclick="(() => Return())" style="background-color: #008BCA">Return</button>
+
+@code {
+    [Parameter]
+    public int ID { get; set; }
+
+    public Student student { get; set; }
+    
+    protected override void OnInitialized()
+    {
+        student = studentsService.GetStudent(ID);
+    }
+
+    private void Return()
+    {
+        navigationManager.NavigateTo("/students");
+    }
+}

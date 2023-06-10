@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Czwiczenia11.props" />
+</Project>

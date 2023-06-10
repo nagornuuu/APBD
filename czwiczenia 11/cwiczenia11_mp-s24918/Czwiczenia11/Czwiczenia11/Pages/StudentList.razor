@@ -1,0 +1,94 @@
+﻿@page "/students"
+@using Czwiczenia11.Data;
+@inject StudentsService studentsService
+@inject NavigationManager navigationManager
+@inject IJSRuntime js
+
+<h3><u>Studenci</u></h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th @onclick="@(() => Sort("Avatar"))">Avatar</th>
+            <th @onclick="@(() => Sort("First Name"))">First name</th>
+            <th @onclick="@(() => Sort("Last Name"))">Last name</th>
+            <th @onclick="@(() => Sort("BirthDate"))">BirthDate</th>
+            <th @onclick="@(() => Sort("Studies"))">Studies</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Students)
+        {
+            <tr>
+                <td><img src="@student.Avatar" alt="@student.FirstName @student.LastName" width="65" height="65"/></td>
+                <td>@student.FirstName</td>
+                <td>@student.LastName</td>
+                <td>@student.BirthDate.ToShortDateString()</td>
+                <td>@student.Studies</td>
+                <td>
+                    <button @onclick="@(() => ShowDetails(student.ID))">Details</button>
+                    <button @onclick="@(() => Delete(student.ID))">Delete</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    public List<Student> Students { get; set; } = new List<Student>();
+    
+    private string sortedColumn;
+    private bool isAscending;
+
+    protected override void OnInitialized()
+    {
+        Students = studentsService.Students;
+    }
+
+    void ShowDetails(int ID)
+    {
+        navigationManager.NavigateTo($"/students/{ID}");
+    }
+    
+    async Task Delete(int ID)
+    {
+        var result = await js.InvokeAsync<bool>("confirm", "Are You sure?");
+        if (result)
+        {
+            studentsService.Remove(ID);
+        }
+    }
+
+    async Task Sort(string name)
+    {
+        if (sortedColumn == name)
+        {
+            isAscending = !isAscending;
+        }
+        else
+        {
+            sortedColumn = name;
+            isAscending = true;
+        }
+
+        switch (sortedColumn)
+        {
+            case "Avatar":
+                Students = isAscending ? Students.OrderBy(e => e.Avatar).ToList() : Students.OrderByDescending(e => e.Avatar).ToList();
+                break;
+            case "First Name":
+                Students = isAscending ? Students.OrderBy(e => e.FirstName).ToList() : Students.OrderByDescending(e => e.FirstName).ToList();
+                break;
+            case "Last Name":
+                Students = isAscending ? Students.OrderBy(e => e.LastName).ToList() : Students.OrderByDescending(e => e.LastName).ToList();
+                break;
+            case "BirthDate":
+                Students = isAscending ? Students.OrderBy(e => e.BirthDate).ToList() : Students.OrderByDescending(e => e.BirthDate).ToList();
+                break;
+            case "Studies":
+                Students = isAscending ? Students.OrderBy(e => e.Studies).ToList() : Students.OrderByDescending(e => e.Studies).ToList();
+                break;
+        }
+    }
+}

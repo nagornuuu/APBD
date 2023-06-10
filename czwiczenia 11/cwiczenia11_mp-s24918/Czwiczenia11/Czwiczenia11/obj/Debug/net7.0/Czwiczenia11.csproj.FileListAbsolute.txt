@@ -1,0 +1,64 @@
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\bin\Debug\net7.0\appsettings.json
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\bin\Debug\net7.0\Czwiczenia11.staticwebassets.runtime.json
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\bin\Debug\net7.0\Czwiczenia11.exe
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\bin\Debug\net7.0\Czwiczenia11.deps.json
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\bin\Debug\net7.0\Czwiczenia11.runtimeconfig.json
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\bin\Debug\net7.0\Czwiczenia11.dll
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\bin\Debug\net7.0\Czwiczenia11.pdb
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.csproj.AssemblyReference.cache
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.AssemblyInfoInputs.cache
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.AssemblyInfo.cs
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.csproj.CoreCompileInputs.cache
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.RazorAssemblyInfo.cache
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.RazorAssemblyInfo.cs
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\staticwebassets\msbuild.Czwiczenia11.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\staticwebassets\msbuild.build.Czwiczenia11.props
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Czwiczenia11.props
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Czwiczenia11.props
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\scopedcss\bundle\Czwiczenia11.styles.css
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\scopedcss\projectbundle\Czwiczenia11.bundle.scp.css
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.dll
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\refint\Czwiczenia11.dll
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.pdb
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.genruntimeconfig.cache
+C:\Users\s24918\Desktop\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\ref\Czwiczenia11.dll
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\bin\Debug\net7.0\appsettings.json
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\bin\Debug\net7.0\Czwiczenia11.staticwebassets.runtime.json
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\bin\Debug\net7.0\Czwiczenia11.exe
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\bin\Debug\net7.0\Czwiczenia11.deps.json
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\bin\Debug\net7.0\Czwiczenia11.runtimeconfig.json
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\bin\Debug\net7.0\Czwiczenia11.dll
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\bin\Debug\net7.0\Czwiczenia11.pdb
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.csproj.AssemblyReference.cache
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.AssemblyInfoInputs.cache
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.AssemblyInfo.cs
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.csproj.CoreCompileInputs.cache
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.RazorAssemblyInfo.cache
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.RazorAssemblyInfo.cs
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\staticwebassets\msbuild.Czwiczenia11.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\staticwebassets\msbuild.build.Czwiczenia11.props
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Czwiczenia11.props
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Czwiczenia11.props
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\scopedcss\bundle\Czwiczenia11.styles.css
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\scopedcss\projectbundle\Czwiczenia11.bundle.scp.css
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.dll
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\refint\Czwiczenia11.dll
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.pdb
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\Czwiczenia11.genruntimeconfig.cache
+C:\Users\andrii\source\APBD\czwiczenia 11\cwiczenia11_mp-s24918\Czwiczenia11\Czwiczenia11\obj\Debug\net7.0\ref\Czwiczenia11.dll
