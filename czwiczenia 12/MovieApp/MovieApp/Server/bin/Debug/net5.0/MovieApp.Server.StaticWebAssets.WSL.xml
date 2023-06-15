@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="/mnt/c/Users/andrii/source/APBD/czwiczenia 12/MovieApp/MovieApp/Client/bin/Debug/net5.0/wwwroot/" />
+  <ContentRoot BasePath="/" Path="/mnt/c/Users/andrii/source/APBD/czwiczenia 12/MovieApp/MovieApp/Client/obj/Debug/net5.0/scopedcss/bundle/" />
+  <ContentRoot BasePath="/" Path="/mnt/c/Users/andrii/source/APBD/czwiczenia 12/MovieApp/MovieApp/Client/wwwroot/" />
+  <ContentRoot BasePath="/Identity" Path="/mnt/c/Users/andrii/.nuget/packages/microsoft.aspnetcore.identity.ui/5.0.6/staticwebassets/V4/" />
+  <ContentRoot BasePath="_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication" Path="/mnt/c/Users/andrii/.nuget/packages/microsoft.aspnetcore.components.webassembly.authentication/5.0.6/build/../staticwebassets/" />
+</StaticWebAssets>
